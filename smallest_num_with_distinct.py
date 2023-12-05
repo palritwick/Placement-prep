@@ -1,3 +1,6 @@
+# Accenture On Campus Drive Dec 2023
+# 4th dec 3rd slot 2023
+
 # Return a single integer the smallest 4 digits number that is greater than num and has  distinct digits.   
 # Input: 1234
 # Output: 1235
